@@ -1,0 +1,17 @@
+{
+  "name": "amir/dto",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Amir Moharami Fard",
+      "email": "a.moharami@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.5"
+  }
+}
